@@ -1,7 +1,7 @@
 elements.explosif_selectif = {
     color: "#ff3333",
     behavior: behaviors.SOLID,
-    category: "explosives",
+    category: "weapons",
     density: 1400,
     desc: "Explose au contact d’un élément choisi via prompt au placement.",
     tick: function(pixel) {
